@@ -1,0 +1,8 @@
+{
+  "name": "privacy-pump-arcium-private-authorization",
+  "description": "Arcium-backed hidden-signer authorization and receipt verification for Privacy Pump.",
+  "maturity": "Reference architecture; implementation under review",
+  "network": "Research and devnet",
+  "topics": ["privacy-pump", "arcium", "mpc", "solana", "cryptography"],
+  "visibility": "public-after-verification"
+}
